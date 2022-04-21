@@ -2,7 +2,7 @@ This is Nbody6++GPU - Beijing version, an N-body star cluster simulation code, m
 
 The code is an offspring of Sverre Aarseth's direct N-body codes see www.sverre.com . 
 
-Hi from Kai ...... This is the code suitable for parallel and GPU accelerated runs on supercomputers and workstations. 
+Hi from another author.!!! Hi from Kai as well.. This is the code suitable for parallel and GPU accelerated runs on supercomputers and workstations. 
 
 
 # Documentation
